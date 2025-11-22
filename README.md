@@ -154,10 +154,11 @@ This isn’t just analysis — it’s a playbook for better governance. Let’s 
 Drop this into any Colab, upload the Telco CSV, and you’re good to go. Let’s keep citizens online! 
 
 
-# Project 4 – Multi-Step Time Series Forecasting on Synthetic Nonlinear Data
+# Project 4 
+# Multi-Step Time Series Forecasting on Synthetic Nonlinear Data
 ### Comparative Analysis of CNN, GRU, and Bidirectional LSTM Models
 
-**November 22, 2025**
+
 
 This project implements and rigorously compares three deep learning architectures for **multi-step (5-step-ahead) time series forecasting** on a challenging synthetic dataset specifically designed to include strong nonlinear patterns.
 
